@@ -11,7 +11,7 @@ console.log(util.format("%s %s", pkgInfo.name, pkgInfo.version));
 
 var argv = optimist
     .usage("Usage:\n  "+pkgInfo.name+" --meta <filename> --target <directory> --library <directory> --template <filename>")
-    .demand(["meta", "dest", "library", "template"])
+    .demand(["meta", "target", "library", "template"])
     .alias({
         "meta": "c",
         "target": "d",
