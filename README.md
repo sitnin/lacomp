@@ -1,3 +1,3 @@
 # Landing page compiler
 
-Just a little bit engineering over mustache templates
+Just a little bit engineering over handlebars templates
