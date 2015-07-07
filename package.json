@@ -1,6 +1,6 @@
 {
   "name": "lacomp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "preferGlobal": true,
   "bin": "cli.js",
   "author": "Gregory Sitnin <greg@sitnin.com",
