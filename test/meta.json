@@ -1,0 +1,16 @@
+{
+    "glob": {
+        "title": "This is a global title"
+    },
+    "seq": {
+        "header": [
+            "chunks/header/header01.hbs"
+        ],
+        "content": [
+            "chunks/content/content01.hbs",
+            {
+                "title": "vlablalba"
+            }
+        ]
+    }
+}
